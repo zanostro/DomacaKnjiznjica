@@ -1,0 +1,17 @@
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\obj\Debug\DomačaKnjižnjica.csprojAssemblyReference.cache
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\obj\Debug\DomačaKnjižnjica.Form1.resources
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\obj\Debug\DomačaKnjižnjica.Properties.Resources.resources
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\obj\Debug\DomačaKnjižnjica.csproj.GenerateResource.cache
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\obj\Debug\DomačaKnjižnjica.csproj.CoreCompileInputs.cache
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\bin\Debug\DomačaKnjižnjica.exe.config
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\bin\Debug\DomačaKnjižnjica.exe
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\bin\Debug\DomačaKnjižnjica.pdb
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\bin\Debug\MySql.Data.dll
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\bin\Debug\Google.Protobuf.dll
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\bin\Debug\MySql.Data.xml
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\obj\Debug\DomačaKnjižnjica.csproj.CopyComplete
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\obj\Debug\DomačaKnjižnjica.exe
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\obj\Debug\DomačaKnjižnjica.pdb
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\obj\Debug\DomačaKnjižnjica.welcome.resources
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\obj\Debug\DomačaKnjižnjica.Login.resources
+D:\programiranje2\DomacaKnjiznjica\DomačaKnjižnjica\obj\Debug\DomačaKnjižnjica.CreateUser.resources
